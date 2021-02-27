@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "rn_layout",
-    "slug": "MyTodoApp",
+    "slug": "o3o",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "first app from o3o",
+    "githubUrl": "https://github.com/ParkKyungWan/react_mytodoapp"
   }
 }
